@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TrainingDiary Pro",
+  "description": "A high-performance training management platform for elite athletes and coaches, featuring session tracking, analysis, and group rankings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

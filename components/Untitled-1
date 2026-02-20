@@ -1,0 +1,29 @@
+# 
+
+import __vite__cjsImport0_react_jsxDevRuntime from "/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=05a1c83d"; const jsxDEV = __vite__cjsImport0_react_jsxDevRuntime["jsxDEV"];
+import __vite__cjsImport1_react from "/node_modules/.vite/deps/react.js?v=05a1c83d"; const React = __vite__cjsImport1_react.__esModule ? __vite__cjsImport1_react.default : __vite__cjsImport1_react;
+import __vite__cjsImport2_reactDom_client from "/node_modules/.vite/deps/react-dom_client.js?v=05a1c83d"; const ReactDOM = __vite__cjsImport2_reactDom_client.__esModule ? __vite__cjsImport2_reactDom_client.default : __vite__cjsImport2_reactDom_client;
+import App from "/App.tsx";
+import { HashRouter } from "/node_modules/.vite/deps/react-router-dom.js?v=05a1c83d";
+const rootElement = document.getElementById("root");
+if (!rootElement) {
+  throw new Error("Could not find root element to mount to");
+}
+const root = ReactDOM.createRoot(rootElement);
+root.render(
+  /* @__PURE__ */ jsxDEV(React.StrictMode, { children: /* @__PURE__ */ jsxDEV(HashRouter, { children: /* @__PURE__ */ jsxDEV(App, {}, void 0, false, {
+    fileName: "/Users/d.serrano/Downloads/copy-of-trainingdiary-pro/index.tsx",
+    lineNumber: 17,
+    columnNumber: 7
+  }, this) }, void 0, false, {
+    fileName: "/Users/d.serrano/Downloads/copy-of-trainingdiary-pro/index.tsx",
+    lineNumber: 16,
+    columnNumber: 5
+  }, this) }, void 0, false, {
+    fileName: "/Users/d.serrano/Downloads/copy-of-trainingdiary-pro/index.tsx",
+    lineNumber: 14,
+    columnNumber: 3
+  }, this)
+);
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJtYXBwaW5ncyI6IkFBZ0JNO0FBZk4sT0FBT0EsV0FBVztBQUNsQixPQUFPQyxjQUFjO0FBQ3JCLE9BQU9DLFNBQVM7QUFDaEIsU0FBU0Msa0JBQWtCO0FBRTNCLE1BQU1DLGNBQWNDLFNBQVNDLGVBQWUsTUFBTTtBQUNsRCxJQUFJLENBQUNGLGFBQWE7QUFDaEIsUUFBTSxJQUFJRyxNQUFNLHlDQUF5QztBQUMzRDtBQUVBLE1BQU1DLE9BQU9QLFNBQVNRLFdBQVdMLFdBQVc7QUFDNUNJLEtBQUtFO0FBQUFBLEVBQ0gsdUJBQUMsTUFBTSxZQUFOLEVBRUMsaUNBQUMsY0FDQyxpQ0FBQyxTQUFEO0FBQUE7QUFBQTtBQUFBO0FBQUEsU0FBSSxLQUROO0FBQUE7QUFBQTtBQUFBO0FBQUEsU0FFQSxLQUpGO0FBQUE7QUFBQTtBQUFBO0FBQUEsU0FLQTtBQUNGIiwibmFtZXMiOlsiUmVhY3QiLCJSZWFjdERPTSIsIkFwcCIsIkhhc2hSb3V0ZXIiLCJyb290RWxlbWVudCIsImRvY3VtZW50IiwiZ2V0RWxlbWVudEJ5SWQiLCJFcnJvciIsInJvb3QiLCJjcmVhdGVSb290IiwicmVuZGVyIl0sImlnbm9yZUxpc3QiOltdLCJzb3VyY2VzIjpbImluZGV4LnRzeCJdLCJzb3VyY2VzQ29udGVudCI6WyJcbmltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XG5pbXBvcnQgUmVhY3RET00gZnJvbSAncmVhY3QtZG9tL2NsaWVudCc7XG5pbXBvcnQgQXBwIGZyb20gJy4vQXBwJztcbmltcG9ydCB7IEhhc2hSb3V0ZXIgfSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tJztcblxuY29uc3Qgcm9vdEVsZW1lbnQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncm9vdCcpO1xuaWYgKCFyb290RWxlbWVudCkge1xuICB0aHJvdyBuZXcgRXJyb3IoXCJDb3VsZCBub3QgZmluZCByb290IGVsZW1lbnQgdG8gbW91bnQgdG9cIik7XG59XG5cbmNvbnN0IHJvb3QgPSBSZWFjdERPTS5jcmVhdGVSb290KHJvb3RFbGVtZW50KTtcbnJvb3QucmVuZGVyKFxuICA8UmVhY3QuU3RyaWN0TW9kZT5cbiAgICB7LyogV3JhcCBBcHAgd2l0aCBIYXNoUm91dGVyIHRvIGVuYWJsZSB1c2Ugb2YgdXNlTmF2aWdhdGUgYW5kIG90aGVyIHJvdXRpbmcgaG9va3MgaW5zaWRlIEFwcCBjb21wb25lbnQgKi99XG4gICAgPEhhc2hSb3V0ZXI+XG4gICAgICA8QXBwIC8+XG4gICAgPC9IYXNoUm91dGVyPlxuICA8L1JlYWN0LlN0cmljdE1vZGU+XG4pO1xuIl0sImZpbGUiOiIvVXNlcnMvZC5zZXJyYW5vL0Rvd25sb2Fkcy9jb3B5LW9mLXRyYWluaW5nZGlhcnktcHJvL2luZGV4LnRzeCJ9
